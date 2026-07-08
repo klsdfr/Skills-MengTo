@@ -1,6 +1,6 @@
 # Agent Skills
 
-A curated collection of **agent skills** for designers/builders using **Codex**, **Claude Code**, **Cursor**, and other AI coding agents to build rich user interfaces, frontend systems, agent loops, automations, and reusable workflows.
+A curated collection of **agent skills** for designers/builders using **Codex**, **Claude**, **Cursor**, and other AI coding agents to build rich user interfaces, frontend systems, agent loops, automations, and reusable workflows.
 
 ![Aura Build super prompt workflow](assets/aura-build-superprompt.gif)
 
