@@ -1,6 +1,6 @@
 # Agent Web Design Skills (draft set)
 
-These are Clawdbot-style AgentSkills focused on **web design** (motion, 3D, UI styling, interactive embeds).
+These are portable AgentSkills focused on **web design** (motion, 3D, UI styling, interactive embeds).
 
 Included skills
 - `gsap/` — timelines, ScrollTrigger, stagger, SPA cleanup

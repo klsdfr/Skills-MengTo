@@ -17,7 +17,7 @@ Start with the flagship web-design workflow:
 4. **[Daily UI Inspiration](agent-skills/codex/daily-ui-inspiration-capture/SKILL.md)**
    Combines browsing, capture, reference study, and prompt generation into a useful agent loop that turns strong landing pages into detailed prompt packs.
 
-These are Clawdbot-style skill folders: concise `SKILL.md` playbooks with optional references, articles, scripts, and assets. The goal is simple: turn good prompts, workflows, style systems, capture recipes, and debugging habits into versioned files an agent can load and follow.
+These are portable agent skill folders: concise `SKILL.md` playbooks with optional references, articles, scripts, and assets. The goal is simple: turn good prompts, workflows, style systems, capture recipes, and debugging habits into versioned files an agent can load and follow.
 
 Portable by default. Each skill should work for any user, repo, or workspace unless the user supplies project-specific context through local agent instructions.
 
